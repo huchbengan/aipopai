@@ -1,0 +1,8 @@
+{
+  "name": "ViraGo.io - AI Viral Content Platform",
+  "description": "A high-end SaaS platform for content creators to analyze viral trends, optimize scripts with AI, and generate localized content for global markets.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
